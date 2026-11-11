@@ -32,7 +32,7 @@ Os dois modelos foram avaliados no mesmo conjunto de teste (210 imagens). A clas
 
 O projeto foi desenvolvido para rodar no **Google Colab**.
 
-1. Baixe a base de imagens: [nome do dataset](link-da-fonte-original).
+1. Baixe a base de imagens: [muffin](https://drive.google.com/drive/folders/1MFwqUVXqWklFK1ihstgnrHynh8AH7OCM?usp=drive_link).[cachorro](https://drive.google.com/drive/folders/162nyisf-Ke8yf7SqdHMgF1Dp8V-dKCvA?usp=drive_link).
 2. No seu Google Drive, crie a pasta `Sistemas Inteligentes` com duas subpastas, `chihuahua` e `muffin`, e coloque as imagens de cada classe na pasta correspondente.
 3. Abra o código no Colab, ative a GPU em **Ambiente de execução → Alterar o tipo de ambiente de execução** e execute as etapas em ordem.
 
